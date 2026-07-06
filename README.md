@@ -13,6 +13,7 @@ A feature-rich command-line calculator built in C++ that handles basic arithmeti
 2. Open a terminal and compile using `g++`:
    ```bash
    g++ -o calculator main.cpp
+   
 #include <iostream>
 #include <cmath>
 #include <limits>
